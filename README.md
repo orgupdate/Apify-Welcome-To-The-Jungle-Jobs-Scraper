@@ -1,4 +1,4 @@
-# 🚀 WelcomeToTheJungle Jobs Scraper
+# 🚀 Welcome to the jungle Jobs Scraper
 
 The most efficient way to extract job listings directly from WelcomeToTheJungle Jobs search results.
 
@@ -6,7 +6,7 @@ The most efficient way to extract job listings directly from WelcomeToTheJungle 
 
 ## 📖 Overview
 
-The **WelcomeToTheJungle Jobs Scraper** is a powerful data extraction tool designed to aggregate job listings from the WelcomeToTheJungle Jobs search engine.
+The **Welcome to the jungle Jobs Scraper** is a powerful data extraction tool designed to aggregate job listings from the welcome to the jungle Jobs search engine.
 
 Whether you're building a job board, analyzing labor market trends, or automating lead generation for recruitment, this actor delivers structured, clean data in real-time.
 
